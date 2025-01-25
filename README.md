@@ -1,6 +1,3 @@
-Here’s a template for your `README.md` file:
-
----
 
 # Project Title: **Medoc Health App**
 
@@ -21,14 +18,7 @@ Medoc Health is an app designed to track and manage women’s health. It provide
    flutter pub get
    ```
 4. **Run the application**:
-  ![Screenshot 2025-01-25 224635](https://github.com/user-attachments/assets/425eee67-de6e-46a7-89d0-8fe3c2fb14ea)
-![Screenshot 2025-01-25 224630](https://github.com/user-attachments/assets/268b10cf-306d-4f9b-84f6-bec420b17240)
-![Screenshot 2025-01-25 224622](https://github.com/user-attachments/assets/613aef45-d39c-4223-aea7-45150c4c5e85)
-![Screenshot 2025-01-25 224616](https://github.com/user-attachments/assets/39720d20-8a20-4c8d-b552-d72047effb5c)
-![Screenshot 2025-01-25 224608](https://github.com/user-attachments/assets/1b621841-e98c-47c2-9a1f-b1d6e3f4951c)
-![Screenshot 2025-01-25 224602](https://github.com/user-attachments/assets/d856ce23-c3a3-4245-9edd-cc0bb0f3e5a3)
-![Screenshot 2025-01-25 224553](https://github.com/user-attachments/assets/cefaef65-c8ae-4158-b93f-be51f2ee85a6)
-![Screenshot 2025-01-25 224543](https://github.com/user-attachments/assets/c4faab15-28b4-4cd8-b5d2-cf02488b4dee)
+
 
    flutter run
    ```
@@ -59,3 +49,11 @@ Medoc Health is an app designed to track and manage women’s health. It provide
 - **More Customization**: Allow users to create personalized health plans and track additional metrics.
 
 ## Screenshots/GIFs
+  ![Screenshot 2025-01-25 224635](https://github.com/user-attachments/assets/425eee67-de6e-46a7-89d0-8fe3c2fb14ea)
+![Screenshot 2025-01-25 224630](https://github.com/user-attachments/assets/268b10cf-306d-4f9b-84f6-bec420b17240)
+![Screenshot 2025-01-25 224622](https://github.com/user-attachments/assets/613aef45-d39c-4223-aea7-45150c4c5e85)
+![Screenshot 2025-01-25 224616](https://github.com/user-attachments/assets/39720d20-8a20-4c8d-b552-d72047effb5c)
+![Screenshot 2025-01-25 224608](https://github.com/user-attachments/assets/1b621841-e98c-47c2-9a1f-b1d6e3f4951c)
+![Screenshot 2025-01-25 224602](https://github.com/user-attachments/assets/d856ce23-c3a3-4245-9edd-cc0bb0f3e5a3)
+![Screenshot 2025-01-25 224553](https://github.com/user-attachments/assets/cefaef65-c8ae-4158-b93f-be51f2ee85a6)
+![Screenshot 2025-01-25 224543](https://github.com/user-attachments/assets/c4faab15-28b4-4cd8-b5d2-cf02488b4dee)
