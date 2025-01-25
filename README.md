@@ -8,20 +8,20 @@ Medoc Health is an app designed to track and manage women’s health. It provide
 1. **Clone the repository**:
    
    git clone <repository-url>
-   ```
+
 2. **Navigate to the project directory**:
   
    cd <project-directory>
-   ```
+   
 3. **Install dependencies**:
   
    flutter pub get
-   ```
+
 4. **Run the application**:
 
 
    flutter run
-   ```
+
 
 ## Dependencies
 - **provider**: Used for state management to manage and share app data across widgets.
